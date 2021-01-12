@@ -1,0 +1,7 @@
+C:\Users\EMorales\source\repos\Booking\Booking\bin\Debug\Booking.exe.config
+C:\Users\EMorales\source\repos\Booking\Booking\bin\Debug\Booking.exe
+C:\Users\EMorales\source\repos\Booking\Booking\bin\Debug\Booking.pdb
+C:\Users\EMorales\source\repos\Booking\Booking\obj\Debug\Booking.csprojAssemblyReference.cache
+C:\Users\EMorales\source\repos\Booking\Booking\obj\Debug\Booking.csproj.CoreCompileInputs.cache
+C:\Users\EMorales\source\repos\Booking\Booking\obj\Debug\Booking.exe
+C:\Users\EMorales\source\repos\Booking\Booking\obj\Debug\Booking.pdb
