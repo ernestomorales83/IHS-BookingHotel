@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9B39B66A-09D6-4ABE-B26F-5309E7AF5EDC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Booking</RootNamespace>
+    <RootNamespace>BookingHotel</RootNamespace>
     <AssemblyName>Booking</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookingManager\BookingManager.cs" />
+    <Compile Include="BookingManager\IBookingManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reservation.cs" />
+    <Compile Include="Room.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
